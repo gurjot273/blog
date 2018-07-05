@@ -10,11 +10,11 @@ site-twitter: #if your site has a twitter account, enter it here
 author: Gurjot Singh Suri # add your name
 author-img: gurjot.jpg # add your photo
 about-author: I am an undergraduate student at IIT Kharagpur. I love exploring new technologies. # add description
-social-twitter: # add your Twitter handle
+social-twitter: '' # add your Twitter handle
 social-facebook: gurjotsingh.suri.9 # add your Facebook handle
 social-github: gurjot273 # add your Github handle
-social-linkedin: # add your Linkedin handle
-social-email: # add your Email address
+social-linkedin: ''# add your Linkedin handle
+social-email: '' # add your Email address
 
 # Disqus
 discus-identifier: mr-brown # add your discus identifier
