@@ -4,7 +4,7 @@ description: > # this means to ignore newlines until "baseurl:"
 permalink: ':title/'
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-site-twitter: #if your site has a twitter account, enter it here
+site-twitter: ''#if your site has a twitter account, enter it here
 
 # Author Settings
 author: Gurjot Singh Suri # add your name
@@ -13,11 +13,11 @@ about-author: I am an undergraduate student at IIT Kharagpur. I love exploring n
 social-twitter: gurjot273 # add your Twitter handle
 social-facebook: gurjotsingh.suri.9 # add your Facebook handle
 social-github: gurjot273 # add your Github handle
-social-linkedin: ''# add your Linkedin handle
+social-linkedin: '' # add your Linkedin handle
 social-email: '' # add your Email address
 
 # Disqus
-discus-identifier: mr-brown # add your discus identifier
+discus-identifier: # add your discus identifier
 
 # Tracker
 analytics: # Google Analytics
